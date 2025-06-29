@@ -1,7 +1,6 @@
 # Pairs Trading Using Cointegration
 
-This repository contains the resources and code necessary to understand and implement a pairs trading strategy using cointegration. The project includes a PowerPoint presentation and a Python notebook to guide you through the concepts and practical implementation.
-
+This repository contains the resources and code necessary to understand and implement a pairs trading strategy using cointegration. 
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -41,6 +40,5 @@ Open the Jupyter notebook `Pairs_Trading_Cointegration.ipynb` to explore the cod
 
 ## Results
 
-The results of the pairs trading strategy, including the performance metrics and visualizations, are documented in the Jupyter notebook. Additionally, the PowerPoint presentation provides a detailed explanation of the methodology and findings.
-
+The results of the pairs trading strategy, including the performance metrics and visualizations, are documented in the Jupyter notebook. 
 
