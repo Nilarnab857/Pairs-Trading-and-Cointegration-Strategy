@@ -18,7 +18,7 @@ Pairs trading is a market-neutral trading strategy that involves identifying and
 ## Project Structure
 
 - `Pairs_Trading_Cointegration.ipynb`: The Jupyter notebook containing the code for the pairs trading strategy.
-- `Pairs_Trading_Presentation.pptx`: A PowerPoint presentation explaining the concepts and methodology of the pairs trading strategy using cointegration.
+
 
 ## Dependencies
 
